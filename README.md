@@ -1,0 +1,1 @@
+hey, it is me Juber and this is my lerning project named as Traffic light controller to get more deeper understanding into verilog concepts and utilising the FSM to built Robust system to handle Multiple state Transitions.
